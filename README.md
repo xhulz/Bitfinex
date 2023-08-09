@@ -15,7 +15,7 @@ This project uses a number of open source projects to work properly:
 - [Node.js (https://nodejs.org/en/)] - Evented I/O for the backend.
 - [Jest (https://jestjs.io/)] - Testing framework designed to ensure correctness of any JavaScript codebase.
 
-## Installation
+## Run
 
 This project requires [Node.js](https://nodejs.org/) v14+ to run.
 
