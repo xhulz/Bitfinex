@@ -1,11 +1,12 @@
-# Booking
+# BFX
 
-Booking is a saas platform for boutiques, studios, and gyms which allows business owners to manage
-their courses, classes, members, memberships etc...
+The BFX challenge
 
 ## Features
 
-- Sending and Receiving Buy / Sell Orders
+- Each client will have its own instance of the orderbook.
+- Clients submit orders to their own instance of orderbook. The order is distributed to other instances, too.
+- If a client's order matches with another order, any remainer is added to the orderbook, too.
 
 ## Tech
 
