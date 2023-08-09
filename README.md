@@ -41,7 +41,7 @@ Second step: Run the Client
 ```sh
 # run client
 1. Open another terminal
-2. Run: npm run Client
+2. Run: npm run client
 ```
 
 ```sh
